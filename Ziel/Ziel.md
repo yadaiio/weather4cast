@@ -12,3 +12,6 @@ und Würselen eine gute Wahl.
 Skalierbar betrachtet für dieses Projekt wäre eine Anzeige für
 einen Magic-Mirror erwünschenswert, aber nicht Hauptziel.
 Eventuell kann ma später für eine App-Lösung schauen.
+
+Die Sprache für dieses Projekt wird Java sein, da wir diese
+Programmiersprache auch in der Berufsschule lernen.
