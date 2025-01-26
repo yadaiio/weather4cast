@@ -15,3 +15,9 @@ Eventuell kann ma später für eine App-Lösung schauen.
 
 Die Sprache für dieses Projekt wird Java sein, da wir diese
 Programmiersprache auch in der Berufsschule lernen.
+
+Das User Interface (Anzeige) soll im terminal sein. d.h. eine TUI (Terminal User interface)
+
+die ramen sollen die selben rahmen sein wie zu DOS zeiten. 
+die Ascii art für Wolken, Sonne, Regen, Gewitter werden Seperat in einem String gespeichert
+Die API für die Wetter daten soll "Open-Meteo" sein, da diese Kostenlos ist.
