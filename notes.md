@@ -1,4 +1,4 @@
 ##Weater Api##
-/Test
+/lul hallo welt
 
 Open-Meteo
