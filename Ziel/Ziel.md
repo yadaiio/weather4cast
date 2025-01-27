@@ -25,3 +25,5 @@ die API, für die Wetter daten soll "Open-Meteo" sein, da diese Kostenlos ist.
 Da das UI im terminal stattfindet, kann man das Programm auf einem Raspberry Pi Laufen lassen,
 und mit einem einfachen Mobilen Display, in ein Magic Mirror oder mittels 3d Druck
 in eine Multi-App eingebaut werden, die Uhrzeit + Wecker sein kann
+
+Für die TUI muss eine Curses Lib benutzt werden.
