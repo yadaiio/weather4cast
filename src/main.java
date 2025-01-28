@@ -11,6 +11,6 @@ public class main {
         System.out.println("aaaaabbbbbcccccaaaaabbbbbccccc");
         System.out.println("aaaaabbbbbcccccaaaaabbbbbccccc");
         System.out.println("aaaaabbbbbcccccaaaaabbbbbccccc");
-        moYaUtility.chageCursor(2, 1);
+        moYaUtility.changeCursor(2, 1);
     }
 }

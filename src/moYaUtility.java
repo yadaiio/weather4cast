@@ -1,4 +1,4 @@
-/*Diese Klasse dient als Ansammlung verschiedener Funktionen, die wir
+/* Diese Klasse dient als Ansammlung verschiedener Funktionen, die wir
  * für das Projekt benötigen. MOYA steht für Moritz und Yada, und utility
  * steht für "Werkzeug". Diese Klasse ist also unser Werkzeugkoffer.
  */

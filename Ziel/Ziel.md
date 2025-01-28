@@ -16,14 +16,12 @@ Eventuell kann ma später für eine App-Lösung schauen.
 Die Sprache für dieses Projekt wird Java sein, da wir diese
 Programmiersprache auch in der Berufsschule lernen.
 
-Das Userinterface (Anzeige) soll im terminal sein. d.h. eine TUI (Terminal User Interface)
+Das Userinterface (Anzeige) soll im Terminal sein, d.h. eine TUI (Terminal User Interface)
 
-Die rahmen sollen dieselben rahmen sein wie zu DOS Zeiten.
-Die ASCII Art für Wolken, Sonne, Regen, Gewitter werden Separat in einem String gespeichert
-die API, für die Wetter daten soll "Open-Meteo" sein, da diese Kostenlos ist.
+Die Rahmen sollen die selben Rahmen sein wie zu DOS-Zeiten.
+Die ASCII Arts für Wolken, Sonne, Regen, Gewitter werden separat in einem String gespeichert.
+Die API, für die Wetterdaten soll "Open-Meteo" sein, da diese kostenlos ist.
 
-Da das UI im terminal stattfindet, kann man das Programm auf einem Raspberry Pi Laufen lassen,
-und mit einem einfachen Mobilen Display, in ein Magic Mirror oder mittels 3d Druck
-in eine Multi-App eingebaut werden, die Uhrzeit + Wecker sein kann
-
-Für die TUI muss eine Curses Lib benutzt werden.
+Da das UI im Terminal stattfindet, kann man das Programm auf einem Raspberry Pi laufen lassen
+und mit einem einfachen mobilen Display, in ein Magic Mirror oder mittels 3D-Druck
+in eine Multi-App eingebaut werden, die Uhrzeit und Wecker sein kann.
